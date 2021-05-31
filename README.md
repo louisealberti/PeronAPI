@@ -9,9 +9,9 @@ The folowing topics were approached:
 - Initial project setup with Spring Boot Initializr
 - Data model creation to map entities of a database
 - Management operations development (creating, listing, updating and deleting people from system)
-- Relation of each operation listed above  with REST architectural patern, and explanation of each REST concept related to the project development.
-- Unit tests for functionality validation
-- System implementation in the cloud using Heroku
+- Relation of each operation listed above  with REST architecture style, and explanation of each REST concept related to the project development.
+- Functionality validation unit tests
+- Cloud deployment using Heroku
 
 To run in the terminal, type:
 
