@@ -2,6 +2,9 @@ package one.digitalinnovation.personapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+
+import one.digitalinnovation.personapi.config.DBConfiguration;
 
 @SpringBootApplication
 public class PersonapiApplication {
