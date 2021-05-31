@@ -3,14 +3,14 @@
 
 ### Digital Innovation: Expert class - Developing a People Management System with API REST and Spring Boot
 
-Live coding where it was developed a basic system for an enterprise people management using API REST created with Spring Boot.
+Live coding where it was developed a basic system for enterprise people management using API REST created with Spring Boot.
 
 The folowing topics were approached:
 
 - Initial project setup with Spring Boot Initializr
-- Data model creation to map entities in a database
-- Management operation development (creating, listing, updating and deleting a person from system)
-- Relation of each operation listed above  with REST architectural patern, and explanation of each RETS concept related to the project development.
+- Data model creation to map entities of a database
+- Management operations development (creating, listing, updating and deleting people from system)
+- Relation of each operation listed above  with REST architectural patern, and explanation of each REST concept related to the project development.
 - Unit tests for functionality validation
 - System implementation in the cloud using Heroku
 
@@ -24,8 +24,7 @@ Open the address to visualize the project:
 
 Prerequisites:
 
-- Java 11 or more recent
+- Java 11
 - Maven 3.8.1
 - Intelij IDEA Community or your favorite IDE
 - Lombok 1.18.20
-
