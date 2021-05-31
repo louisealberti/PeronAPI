@@ -1,9 +1,8 @@
 # Person API
----
 
 ### Digital Innovation: Expert class - Developing a People Management System with API REST and Spring Boot
 
-Live coding where it was developed a basic system for business people management using API REST created with Spring Boot.
+Live coding where it was developed a basic system for business people management using API REST and created with Spring Boot.
 
 The folowing topics were approached:
 
